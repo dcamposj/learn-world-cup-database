@@ -134,3 +134,4 @@ __vsc_prompt_cmd_original
 clear
 psql --username=freecodecamp --dbname=postgres
 clear
+./queries.sh
